@@ -22,8 +22,8 @@ export function Header(props: IParams): ReactElement {
       <div className="flex items-center">
         <BetterAngelsLogoIcon className="h-4" />
         <div className="text-white flex ml-2 text-sm">
-          <div className="font-normal">Wildfire</div>
-          <div className="font-semibold">LA</div>
+          <div className="font-normal notranslate">Wildfire</div>
+          <div className="font-semibold notranslate">LA</div>
         </div>
       </div>
     </header>
